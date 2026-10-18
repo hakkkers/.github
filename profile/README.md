@@ -1,4 +1,4 @@
-<img width="322" height="222" alt="image" src="https://github.com/user-attachments/assets/80e6661d-de5c-4644-a245-3f4b3b81537c" />
+<img width="322" height="222" alt="Hakkers logo" src="assets/hakkers_logo.png" />
 
 🇳🇵 Exploring digital security, ethical hacking, and open-source security innovation.
 
